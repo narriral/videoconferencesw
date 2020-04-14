@@ -13,7 +13,7 @@ let's find out what are the characteristics of video conference softwares
                 
 # how to contribute
 
-This is the main template for adding new software or new information about a software:
+This is the main template for adding new information about a software:
 
     Software's name:
     End-to-end encryption: yes/no
